@@ -3,6 +3,11 @@
 *.mod.c
 *.creator*
 build/
+*.cflags
+*.cxxflags
+*.config
+*.files
+*.includes
 
 # Prerequisites
 *.d
